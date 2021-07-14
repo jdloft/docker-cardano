@@ -1,4 +1,4 @@
-ARG NODE=1.27.0
+ARG NODE=alonzo-blue2.0
 
 # the builder
 FROM haskell:8 AS builder
